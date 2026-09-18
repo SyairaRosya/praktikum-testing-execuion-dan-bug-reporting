@@ -36,4 +36,3 @@ Sistem tidak melakukan validasi terhadap kondisi keranjang yang kosong. Setelah 
 
 ## ATTACHMENT & TRACEABILITY
 **Related Test Case:** TC-001 – Checkout dengan keranjang kosong
-**Attachment:** [Masukkan screenshot hasil pengujian kamu di sini]
